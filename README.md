@@ -68,3 +68,9 @@ Example request:
 
 Model weights are not included in this repository due to size constraints.
 Available upon request.
+
+If you want to see how i train my model you can see it here
+https://www.kaggle.com/code/snehallaldas/gemma-3-270m
+
+It also contains the model weights
+
